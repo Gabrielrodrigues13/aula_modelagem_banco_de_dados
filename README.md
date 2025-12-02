@@ -1,5 +1,5 @@
 Sobre o Projeto
-
+Link do Repositorio no git https://github.com/Gabrielrodrigues13/aula_modelagem_banco_de_dados.git
 Este arquivo SQL contém a estrutura e os dados iniciais do Banco de Dados Garou Arts, um sistema desenvolvido para gerenciar:
 
 Clientes
